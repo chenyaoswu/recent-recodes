@@ -1,5 +1,4 @@
-## node-influex写入多条数据
-## node-influx writePoints write multiple points
+## node-influx writePoints write multiple points（node-influex写入多条数据）
 
 Tips:  多条数据写入需要添加时间戳，切时间戳精确到纳秒，需补充到19位，如不够长，直接追加0到19位即可
 
